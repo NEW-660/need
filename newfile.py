@@ -1,5 +1,3 @@
-print('تطوير نيو اليبي')
-print('صيد يوزرات مميز')
 import requests
 import random
 from colorama import *
